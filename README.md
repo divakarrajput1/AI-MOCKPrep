@@ -1,24 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## UI/UX Samples
+![Screenshot 2025-02-25 084127](https://github.com/user-attachments/assets/25b596b5-0825-463b-86c0-6290ed20e99f)
+![Screenshot 2025-02-25 084110](https://github.com/user-attachments/assets/4758e7b7-c4e7-400d-8b32-388ea7445597)
+![Screenshot 2025-02-25 084041](https://github.com/user-attachments/assets/0db4fb45-d164-476e-b29b-dce703e2119b)
+![Screenshot 2025-02-25 083958](https://github.com/user-attachments/assets/5001e7e8-7228-4039-b2d2-b338c678f5a1)
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
